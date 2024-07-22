@@ -152,7 +152,6 @@ Para iniciar a aplicação com Docker e Docker Compose:
            "description": "Task Description",
            "completed": false
          }
-         // Outros objetos de tarefa
        ]
      }
      ```
